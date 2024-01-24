@@ -1,8 +1,8 @@
 # Network and Fee list
 
 | Network name | Network ID | Fee | Tracker link |
--------   --------------------------
-| Icon mainnet | 
+-------   
+| Icon mainnet | | | |
 | Lisbon Testnet | 
 |  |
 | Archway mainnet  |
