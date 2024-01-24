@@ -2,6 +2,11 @@
 
 | Network name | Network ID | Fee | Tracker link |
 -------   
+| Network name | Network ID | Fee | Tracker link |
+| Network name | Network ID | Fee | Tracker link |
+| Network name | Network ID | Fee | Tracker link |
+| Network name | Network ID | Fee | Tracker link |
+<!-- 
 | Icon mainnet | | | |
 | Lisbon Testnet | 
 |  |
@@ -26,4 +31,4 @@
 | Havah mainnet  |
 | Testnet     |
 |
-|
+| -->
