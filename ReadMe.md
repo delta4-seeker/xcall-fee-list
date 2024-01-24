@@ -1,7 +1,7 @@
 # Network and Fee list
 
 | Network name | Network ID | Fee | Tracker link |
--------   
+| --- | --- | --- | --- |
 | Network name | Network ID | Fee | Tracker link |
 | Network name | Network ID | Fee | Tracker link |
 | Network name | Network ID | Fee | Tracker link |
