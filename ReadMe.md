@@ -1,20 +1,20 @@
 # Network and Fee list
 
-| Network name | Network ID | Fee | Tracker link |
-| --- | --- | --- | --- |
-| Icon mainnet |1  |1  |1  |
-| Lisbon Testnet | 1  |1  |1  |
-| Archway mainnet  |1  |1  |1  |
-| Testnet  |1  |1  |1  |
-| Neutron mainnet  |1  |1  |1  |
-| Testnet  |1  |1  |1  |
-| Injective Mainnet  |1  |1  |1  |
-| Testnet  |1  |1  |1  |
-| Ethereum mainnet  |1  |1  |1  |
-| Testnet  |1  |1  |1  |
-| Binance mainnet  |1  |1  |1  |
-| Testnet  |1  |1  |1  |
-| Avalanche mainnet  |1  |1  |1  |
-| Testnet  |1  |1  |1  |
-| Havah mainnet  |1  |1  |1  |
-| Testnet     |1  |1  |1  |
+| Network name| Fee 
+| --- | --- |
+| Icon mainnet|0.25 ICX  
+| Lisbon Testnet  |0.NA ICX  |
+| Archway mainnet   |NA  |
+| Testnet   |NA  |
+| Neutron mainnet   |NA  |
+| Testnet  |NA  |
+| Injective Mainnet    |NA  |
+| Testnet   |NA  |
+| Ethereum mainnet  |0  |
+| Testnet(Sepolia NV)   |0  |
+| Binance mainnet  |0  |
+| Testnet  |0 |
+| Avalanche mainnet NV  |0.003 AVAX  |
+| Testnet  |0  |
+| Havah mainnet  |NA  |
+| Testnet    |0  |
